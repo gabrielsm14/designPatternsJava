@@ -10,7 +10,7 @@ public class TestesDescontos {
 
 	public static void main(String[] args) {
 
-		Orcamento primeiro = new Orcamento();
+		Orcamento primeiro = new Orcamento(); 
 		primeiro.adicionar(new ItemOrcamento(new BigDecimal("200")));
 		
 		Orcamento segundo = new Orcamento();
